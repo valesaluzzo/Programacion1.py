@@ -1,0 +1,1 @@
+'''Detallar con comentarios para cada entrada y salida de los ejercicios anteriores el tipo de dato.'''
